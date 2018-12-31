@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SHS REGISTRATION</string>
+
+    <string-array name="programs">
+
+        <item>ICT</item>
+        <item>ABM</item>
+        <item>CULARTS</item>
+        <item>TOSH</item>
+        <item>HUMSS</item>
+
+    </string-array>
+</resources>
